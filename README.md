@@ -1,0 +1,1 @@
+# Terraform-static-website-on-AWS-s3-project
